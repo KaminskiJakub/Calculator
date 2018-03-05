@@ -12,6 +12,8 @@ import javax.swing.SwingConstants;
 
 public class Calculator {
 
+	// This a test, just to do exercise with the source tree.
+
 	private JFrame frame;
 	private JTextField textField;
 	
